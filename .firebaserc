@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "songlist-e19bb": {
+      "hosting": {
+        "app": [
+          "songlist-e19bb"
+        ]
+      }
+    }
+  }
+}
